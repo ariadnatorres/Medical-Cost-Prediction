@@ -1,4 +1,4 @@
-# Medical-Cost-Prediction
+# Insuranse-Cost-Prediction
 Implementing a linear regression to predict medical costs
 
 
